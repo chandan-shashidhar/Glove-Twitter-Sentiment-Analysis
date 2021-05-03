@@ -6,11 +6,11 @@ Pre-trained word embeddings from GloVe are used as a frozen
 input to Keras, afterwhich a CNN learns and predicts on the classification.
 
 ## Requirements
-```
+
 * keras
 * sklearn
 * numpy
-```
+
 
 ## Usage
 
